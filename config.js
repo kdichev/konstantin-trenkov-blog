@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://wacheauf.netlify.com',
   pathPrefix: '/',
   title: 'Geistheilen',
   subtitle: 'Wache aus der Hypnose auf! Erkenne deine wahre Natur.',
@@ -25,7 +25,7 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Satyavati Rishasringa',
+    name: 'Satva Avelon',
     photo: '/turiel.jpg',
     bio:
       'Es ist die Aufgabe eines jeden, sich selbst zu erkennen und den Weg zu gehen.',
