@@ -1,7 +1,7 @@
 ---
 template: post
 title: ' GEISTHEILEN - WENN DU NICHT MEHR WEITER WEIßT, ICH BIN DER RICHTIGE FÜR DICH!'
-slug: '  geistheilen - wenn-du-nicht-mehr-weiter-weisst-ich-bin-der-richtige-für-dich '
+slug: '  geistheilen-wenn-du-nicht-mehr-weiter-weisst-ich-bin-der-richtige-für-dich '
 draft: false
 date: 2020-02-27T19:13:03.010Z
 description: >-
