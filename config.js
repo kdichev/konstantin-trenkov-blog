@@ -15,14 +15,14 @@ module.exports = {
       label: 'Artikel',
       path: '/',
     },
-    {
-      label: 'Für mich',
-      path: '/pages/about',
-    },
-    {
-      label: 'Kontaktieren Sie mich',
-      path: '/pages/contacts',
-    },
+    // {
+    //   label: 'Für mich',
+    //   path: '/pages/about',
+    // },
+    // {
+    //   label: 'Kontaktieren Sie mich',
+    //   path: '/pages/contacts',
+    // },
   ],
   author: {
     name: 'Satva Avelon',
